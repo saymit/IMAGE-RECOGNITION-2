@@ -1,0 +1,24 @@
+body{
+    background-color: orange;
+    color: blue;
+}
+.heading :hover{
+     border: white solid  black;
+     width: 80%;
+     font-size: 30px;
+ }
+ 
+ .name_objects{
+     font-size: 20px;
+     color: yellow;
+ }
+ #camera, #result{
+     border: 2px solid black;
+     width: 350px;
+     height: 300px;
+ 
+ }
+
+
+
+
